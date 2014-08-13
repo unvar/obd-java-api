@@ -22,4 +22,4 @@ dependencies {
 }
 ```
 
-**NOTE** For other usages see the parent project (obd-java-api)[https://github.com/pires/obd-java-api]
+**NOTE** For other usages see the parent project [obd-java-api](https://github.com/pires/obd-java-api)
